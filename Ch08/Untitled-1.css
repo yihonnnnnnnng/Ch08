@@ -169,8 +169,8 @@ img, object, embed, video {
 	display: block;
 }
 #sidebar {
-	clear: both;
-	float: left;
+	clear: none;
+	float: right;
 	margin-left: 0;
 	width: 30%;
 	display: block;
